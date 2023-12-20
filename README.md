@@ -2,7 +2,7 @@
 
 This project allows users to discover random Magic: The Gathering cards with just a click of a button.
 
-**Link to project:**
+**Link to project:** https://notare.github.io/magic-the-gathering-card-randomizer
 
 <img src="./img/repo-gif.gif" alt="">
 
