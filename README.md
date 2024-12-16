@@ -36,8 +36,6 @@ Throughout this project, I gained valuable insights into creating an interactive
 
 # Descrição em Português
 
-# Magic: The Gathering Card Randomizer
-
 Este projeto permite que os usuários descubram cartas aleatórias de Magic: The Gathering com apenas um clique.
 
 ## Como Foi Feito:
